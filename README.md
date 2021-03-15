@@ -10,7 +10,7 @@ To report an issue simply head over to the **issues** tab
 
 ---
 
-![Issues Tab](https://imgur.com/a/mf06ors.jpg)
+![Issues Tab](https://i.imgur.com/LjbTcwR.png)
 
 ---
 
