@@ -1,4 +1,4 @@
-# ascellas official issue-tracker
+# Ascella's official issue-tracker
 
 ---
 
@@ -10,7 +10,7 @@ To report an issue simply head over to the **issues** tab
 
 ---
 
-![Issues Tab](https://imgur.com/Wi6KFIC.jpg)
+![Issues Tab](https://imgur.com/a/mf06ors.jpg)
 
 ---
 
