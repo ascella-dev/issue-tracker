@@ -4,7 +4,7 @@
 
 ## Usage of this repository
 
-The usage and purpose of this repo is for users to provide any bugs and issues that have been found with lucid. Any other support is to be done in our [Discord Server](https://discord.gg/yUuj4h3yZQ)
+The usage and purpose of this repo is for users to provide any bugs and issues that have been found with Ascella. Any other support is to be done in our [Discord Server](https://discord.gg/yUuj4h3yZQ)
 
 To report an issue simply head over to the **issues** tab
 
